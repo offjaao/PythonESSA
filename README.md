@@ -1,2 +1,2 @@
 # PythonESSA
-Módulo V - ESSA
+Exercícios realizados em sala, módulo V - ESSA
